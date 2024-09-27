@@ -1,0 +1,15 @@
+[
+    {
+      "P_id": 1,
+      "Date": "2024-09-25",
+      "PatientName": "John Doe",
+      "Medication": "Amoxicillin"
+    },
+    {
+      "P_id": 2,
+      "Date": "2024-09-26",
+      "PatientName": "Jane Smith",
+      "Medication":"Ibuprofen"
+    }
+]
+  

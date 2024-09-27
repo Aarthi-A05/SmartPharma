@@ -1,0 +1,17 @@
+[
+    {
+      "patientId": 1,
+      "patientName": "John Doe",
+      "medication": "Amoxicillin",
+      "frequency": "Twice a day",
+      "dosage": "500mg"
+    },
+    {
+      "patientId": 2,
+      "patientName": "Jane Smith",
+      "medication": "Ibuprofen",
+      "frequency": "Once a day",
+      "dosage": "200mg"
+    }
+  ]
+  
